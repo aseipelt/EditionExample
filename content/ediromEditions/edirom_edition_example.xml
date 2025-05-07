@@ -19,7 +19,7 @@
                     </names>
                     <navigatorItem xml:id="navItem-0-1" sortNo="1" targets="xmldb:exist:///db/apps/edirom/edition-example/content/startwindow.xml">
                         <names>
-                            <name xml:lang="de">Lies mich!</name>
+                            <name xml:lang="de">Lies doch!</name>
                             <name xml:lang="en">Read me!</name>
                         </names>
                     </navigatorItem>
@@ -57,6 +57,14 @@
                         <names>
                             <name xml:lang="de">Erstdruck (Pr)</name>
                             <name xml:lang="en">First edition (Pr)</name>
+                        </names>
+                    </navigatorItem>
+                    <navigatorItem xml:id="navItem-2-0"
+                        sortNo="1"
+                        targets="xmldb:exist:///db/apps/edirom/edition-example/content/sources/Ms81.xml">
+                        <names>
+                            <name xml:lang="de">Ms81</name>
+                            <name xml:lang="en">Ms81</name>
                         </names>
                     </navigatorItem>
                 </navigatorCategory>
